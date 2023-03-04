@@ -1,0 +1,13 @@
+.card {
+    margin: auto;
+    border: 2px solid #ff7b00 ;
+    background-color: #a4f9aa;
+    width: 70%;
+    padding: 20px;
+    box-shadow:-10px 3px  20px  5px rgb(141, 4, 123);
+  }
+
+
+body {
+background-image: linear-gradient( to right bottom, yellow, rgb(0, 4, 255), rgb(0, 243, 41), rgb(255, 0, 179), rgb(255, 0, 0) );
+}
